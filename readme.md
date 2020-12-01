@@ -13,7 +13,7 @@ LICENSE: [MIT](./license.md)
 4. [git commit](./commit.md)
 5. [git branch](./branch.md)
 6. [git checkout](./checkout.md)
-7. [git marge](./marge.md)
+7. [git merge](./merge.md)
 
 
 ---
