@@ -16,4 +16,4 @@ git checkout master
 git merge hotfix
 ```
 
-[<предидущая](./checkout.md) | [следующая>]()
+[<предидущая](./checkout.md) | [следующая>](./tired.md)
