@@ -14,12 +14,12 @@
 
 ---
 | Торвальдс Линус |
+
 ![Torvalds](./assets/Torvalds.jpg) 
 
 ---
  | Хамано Джунио |
+
 ![Hamano](./assets/Hamano.jpg)    
 
-[< к содержанию](./readme.md)
-
-[следующая>](./add.md)
+[< к содержанию](./readme.md) | [следующая>](./add.md)
