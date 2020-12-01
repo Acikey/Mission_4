@@ -11,4 +11,4 @@ git checkout master
 git checkout hotfix
 ```
 
-[<предидущая](./branch.md) | [следующая>](./marge.md)
+[<предыдущая](./branch.md) | [следующая>](./merge.md)

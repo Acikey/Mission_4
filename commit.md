@@ -8,4 +8,4 @@
 Git commit -m "init"
 ```
 
-[<предидущая](./status.md) | [следующая>](./branch.md)
+[<предыдущая](./status.md) | [следующая>](./branch.md)

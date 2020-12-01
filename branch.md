@@ -20,5 +20,5 @@ Switched to a new branch 'hotfix'
 $ git checkout news
 ```
 
-[<предидущая](./commit.md) | [следующая>](./checkout.md)
+[<предыдущая](./commit.md) | [следующая>](./checkout.md)
 
