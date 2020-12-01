@@ -7,5 +7,5 @@
 ```bash=
 Git add .
 ```
-
+[<предидущая](./history.md) | [следующая>](./status.md)
 

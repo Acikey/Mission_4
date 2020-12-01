@@ -7,3 +7,5 @@
 ```
 Git commit -m "init"
 ```
+
+[<предидущая](./status.md) | [следующая>](./branch.md)

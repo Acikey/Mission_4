@@ -15,3 +15,5 @@ git checkout master
 ```
 git merge hotfix
 ```
+
+[<предидущая](./checkout.md) | [следующая>]()
